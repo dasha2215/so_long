@@ -61,7 +61,7 @@
 ## How to Build
 1. **Clone the so_long repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/dasha2215/so_long.git
    cd so_long
    ```
 2. **Compile the project**:
