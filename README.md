@@ -5,7 +5,7 @@
 
 ## Game Preview
 
-![Game Preview](assets/solong.gif)
+![Game Preview](assets/so-long.gif)
 
 ## Table of Contents
 - [Features](#features)
