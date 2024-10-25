@@ -3,6 +3,10 @@
 ## Overview
 **so_long** is a simple 2D game developed in C using the **MiniLibX (MLX42)** library. The main objective of this game is to collect all collectibles and reach the exit while navigating through a grid-based map. This project aims to enhance skills in window management, event handling, texture rendering, and basic game logic.
 
+## Game Preview
+
+![Game Preview](assets/solong.gif)
+
 ## Table of Contents
 - [Features](#features)
 - [Gameplay](#gameplay)
